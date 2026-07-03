@@ -21,7 +21,7 @@ http://127.0.0.1:8000 🔄 Workflow User uploads image or starts live camera YOL
 
 Team Size: 2
 
-Developers Prajwal 📅 Duration
+Developers Subhanesh Nadar 📅 Duration
 
 January 2026 – February 2026
 
