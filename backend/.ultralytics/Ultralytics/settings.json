@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\06sub\\Downloads\\Neuroscans\\Neuroscans\\backend\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "5abbd6381aa32ba1a093f3d705cfe1ae6b39a802ecd88ff1ac41639bf937de43",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
